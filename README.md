@@ -7,6 +7,6 @@ Data Science Project:
 
 ✅ Visualization: Creating stunning charts and graphs to present findings.
 
-✅ Machine Learning (if applicable): Predictive modeling for personalized recommendations.
+✅ Machine Learning: Predictive modeling for personalized recommendations.
 
 ✅ Insights & Conclusion: Key takeaways and actionable findings.
